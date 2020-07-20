@@ -1,0 +1,85 @@
+{
+    margin: 0;
+    pedding: 0;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.container {
+    margin: 0 auto;
+    background: rgb(255, 255, 255);
+}
+
+header {
+    font: outline;color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 880px;
+    height: 150px;
+    margin: 0 auto;
+    background-color: rgb(104, 182, 255);
+}
+section {
+    margin-left: 50px;
+    margin-top: 20px;
+    width: 1050px;
+    height: 571px;
+    background: rgb(89, 194, 255);
+    float: left;
+    border-style: double;
+}
+aside {
+    margin: 20px;
+    width: 335px;
+    height: 571px;
+    float: left;
+    background:	hsl(202, 100%, 69%)
+}
+footer{
+    font-size: 8px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: rgb(140, 213, 255);
+    width: 1503px;
+    height: 25px;
+}
+.PD{
+    width: 100%;
+    display: table;
+    margin: auto;
+}
+.PD{
+    float: left;
+    width: 100%;
+    color: rgb(255, 255, 255);
+    background-color: white;
+    margin: 0px;
+    line-height: 0px;
+    text-indent: 40px;
+    font-size: 30px;
+    padding-right: 20px;
+}
+.PD ,.PD  li{
+    float: left;
+    padding: -5px;
+    margin: 0 px;
+    list-style: none;
+}
+.PD {
+    width: 94.3%;
+    margin-right: 20px;
+}
+.PD  li{
+    width: 25%;
+}
+.PD{
+    background-color: rgb(71, 172, 255);
+    background-size: cover;
+}
+.NV ,.NV li a{
+    text-decoration:none;
+    color: rgb(0, 0, 0);
+}
